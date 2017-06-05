@@ -1,0 +1,2 @@
+export const ISLOADING = 'ISLOADING'
+export const KEYWORDS_LIST = 'KEYWORDS_LIST'
